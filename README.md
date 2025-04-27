@@ -105,23 +105,22 @@ Detailed data will be saved in `zalando_product_details.json`.
 ```json
 [
 	{
-    "url": "https://en.zalando.de/anna-field-handbag-black-an651h0x2-q11.html",
-    "title": "Handbag - black",
-    "brandName": "Anna Field",
-    "details": { "Fastening:": "Zip", "Pattern:": "Plain", "Details:": "Buckle" },
-    "price": "108,95 €",
-    "sizes": {
-      "Height:": "28 cm (Size One Size)",
-      "Length:": "36 cm (Size One Size)",
-      "Width:": "12 cm (Size One Size)"
-    },
-    "imageUrls": [
-      "https://img01.ztat.net/article/spp-media-p1/3359d0e0d8484d9ba930544c6c71a861/7859902ec50b4d88899541e3c1cf976b.jpg?imwidth=762",
-      "https://img01.ztat.net/article/spp-media-p1/4ce13463cf9a4dda9828bfc44f65bb6e/45133485dd0c4b03b1b122f0deeb0801.jpg?imwidth=762&filter=packshot",
-      "https://img01.ztat.net/article/spp-media-p1/4ce13463cf9a4dda9828bfc44f65bb6e/45133485dd0c4b03b1b122f0deeb0801.jpg?imwidth=156&filter=packshot",
-      .... more
-    ]
-  }
+		"url": "https://en.zalando.de/anna-field-handbag-black-an651h0x2-q11.html",
+		"title": "Handbag - black",
+		"brandName": "Anna Field",
+		"details": { "Fastening:": "Zip", "Pattern:": "Plain", "Details:": "Buckle" },
+		"price": "108,95 €",
+		"sizes": {
+			"Height:": "28 cm (Size One Size)",
+			"Length:": "36 cm (Size One Size)",
+			"Width:": "12 cm (Size One Size)"
+		},
+		"imageUrls": [
+			"https://img01.ztat.net/article/spp-media-p1/3359d0e0d8484d9ba930544c6c71a861/7859902ec50b4d88899541e3c1cf976b.jpg?imwidth=762",
+			"https://img01.ztat.net/article/spp-media-p1/4ce13463cf9a4dda9828bfc44f65bb6e/45133485dd0c4b03b1b122f0deeb0801.jpg?imwidth=762&filter=packshot",
+			"https://img01.ztat.net/article/spp-media-p1/4ce13463cf9a4dda9828bfc44f65bb6e/45133485dd0c4b03b1b122f0deeb0801.jpg?imwidth=156&filter=packshot"
+		]
+	}
 ]
 ```
 
