@@ -1,0 +1,6 @@
+# Node modules
+node_modules/
+
+# Output files
+zalando_product_listings.json
+zalando_product_details.json
