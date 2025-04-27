@@ -2,8 +2,8 @@
 
 ## Description
 
-This repository contains a Node.js scraper that extracts product listings and detailed product information from Zalando using Puppeteer.
-It handles infinite scrolling, dynamic page loading, and extracts structured data like product names, prices, sizes, and availability.
+This repository contains Node.js scrapers for scraping Zalando product listings and Zalando product details page using Puppeteer.
+Scrapers handles dynamic page loading, Pagination, and extracts structured data like product names, brand names, prices, sizes, images, and other details.
 
 ➡ Full tutorial available [here](https://crawlbase.com/blog/how-to-create-zalando-scraper/).
 
